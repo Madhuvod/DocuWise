@@ -5,16 +5,16 @@ This application is a basic document question-answering system that leverages st
 
 **Features**
 
-Document upload and processing (supports PDF files)
-Natural language question answering
-Adaptive Retrieval-Augmented Generation (RAG) for improved accuracy - compresssing the chunks 
-Efficient vector search using FAISS
-Feedback loop for continuous improvement
-Advanced post-processing including text splitting, summarizing docs.
+- Document upload and processing (supports PDF files) 
+- Natural language question answering 
+- Adaptive Retrieval-Augmented Generation (RAG) for improved accuracy - compresssing the chunks 
+- vector search using FAISS
+- Feedback loop for continuous improvement
+- Advanced post-processing including text splitting, summarizing docs.
 
 **Architecture**
 
-![alt text](<Screenshot 2024-09-14 at 8.53.56 PM.png>)
+![Architecture](<Screenshot 2024-09-14 at 8.53.56 PM.png>)
 
 
 
