@@ -8,16 +8,13 @@ This application is a basic document question-answering system that leverages st
 - Document upload and processing (supports PDF files) 
 - Natural language question answering 
 - Adaptive Retrieval-Augmented Generation (RAG) for improved accuracy - compresssing the chunks 
-- vector search using FAISS
+- Vector search using FAISS
 - Feedback loop for continuous improvement
 - Advanced post-processing including text splitting, summarizing docs.
 
 **Architecture**
 
 ![Architecture](<Screenshot 2024-09-14 at 8.53.56 PM.png>)
-
-
-
 
 
 **Technologies Used** :
@@ -62,7 +59,7 @@ Receive AI-generated answers based on the document's content,
 - Post-Processing: Answers undergo splitting and other refinements for improved readability
 - Feedback Loop: User feedback is incorporated to improve future retrievals and answers
 
-##Future Improvements
+**Future Improvements**
 
 - Support for additional document formats
 - Multi-document querying
