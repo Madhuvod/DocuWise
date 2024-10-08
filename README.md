@@ -1,4 +1,4 @@
-# document-q-a
+# DocuWise - Document Chatbot
 
 **Description** :
 This application is a basic document question-answering system that leverages state-of-the-art Language Models - gpt-4o. It allows users to upload documents and ask questions about their content, receiving accurate and context-aware answers.
